@@ -3,7 +3,8 @@
 
 <img src="Screen.png" 
         alt="Picture"  
-        style="display: block; margin: 0 auto" />
+        align="center" 
+        />
 
 ## System Configuration
 
